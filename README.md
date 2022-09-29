@@ -9,4 +9,4 @@ https://l0u0l.tistory.com/
 https://velog.io/@chanhong-dev
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=chanhong-dev&color=dark)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=chanhong-dev&color=dark)](https://velog.io/@chanhong-dev)
