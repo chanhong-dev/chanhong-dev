@@ -5,9 +5,8 @@
 ## Tistory
 https://l0u0l.tistory.com/
 
-## Velog
-https://velog.io/@chanhong-dev
+<!-- ## Velog
+https://velog.io/@chanhong-dev -->
 <!-- 
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=chanhong-dev&color=dark)](https://velog.io/@chanhong-dev)
  -->
